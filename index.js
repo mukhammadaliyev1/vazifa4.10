@@ -212,8 +212,25 @@
 
 // 15-misol
 
-let arr =[ 'salom','xayr']
-function newStr(arr){
-let res = arr.join(' ')
+// let arr =[ 'salom','xayr']
+// function newStr(arr){
+// let res = arr.join(' ')
 
-}
+// }
+
+// 19-misol
+// const str = "salom xayr";
+// function newstring(str) {
+//   let res = str.split(" ");
+//   return res.reverse();
+// }
+// console.log(newstring(str));
+
+
+// 20-misol
+// const str = "salom xayr";
+// // function newstring(str) {
+//   let res = str.split(" ");
+//   return res.reverse();
+// }
+// console.log(newstring(str));
